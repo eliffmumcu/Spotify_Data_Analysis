@@ -19,6 +19,7 @@ This project's data analysis included several key techniques and stages to deriv
 
 
 FINDINGS
+
 •	Between the dates 05.12.2022 and 05.12.2023 I have streamed 12872 songs.
 
 •	There are 250 songs that have been streamed more than 10 times.

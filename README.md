@@ -5,9 +5,11 @@ MOTIVATION
 The motivation behind this project lies in the desire to gain comprehensive insights into my music streaming habits and preferences between the dates 05.12.2022 and 05.12.2023 on Spotify app. By analyzing the extensive dataset capturing my listening history, the goal is to uncover patterns, trends, and notable statistics related to the artists and songs that dominate my streaming experience. This project aims to provide a detailed exploration of my musical journey, identifying favorite tracks, preferred time slots for streaming and much more. This exploration is not only a personal quest to rediscover favorite tracks and moments but also an opportunity to enhance my data analysis skills and utilize various visualization techniques. Through this project, I hope to gain valuable insights into how my music preferences evolve, the impact of seasons or times of the day on my listening habits, and any other intriguing aspects that may emerge from the data.
 
 
+
 DATA SOURCE
 
 The data for this project was gathered from my personal Spotify account and provided by Spotify in JSON format. This comprehensive dataset contains specific information about each music played, such as track name, artist, duration, and timestamps. To begin the project, I turned the JSON data into a structured format in Python, primarily utilizing libraries like pandas, seaborn, and matplotlib for analysis and visualization.
+
 
 
 DATA ANALYSIS
@@ -27,6 +29,9 @@ My most active time is between 7PM - 8PM.
 
 
 
+
+
 LIMITATION AND FUTURE WORK
+
 While this project has provided valuable insights into user streaming patterns and preferences, the absence of genre information for the songs in the dataset restricts a more in-depth analysis of user preferences based on music genres. For the future, next year’s stream data could be analyzed, and these two years can be compared to each other. This would, unveil evolving trends, shifts in user preferences, and changes in popular artists over time. Furthermore, introducing machine learning models to the project could enable predictive analysis, allowing for the forecasting of future streaming trends or predicting user engagement based on historical data.
 
